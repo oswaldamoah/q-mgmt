@@ -41,7 +41,7 @@ This project focuses on developing a **Physical Queue Management System** using 
 ---
 
 ## 🎥 Presentation & Demonstration  
-Watch the project in action:  
+Watch the project in action (Kindly click on the thumbnail below to open the presentation via YouTube):  
 
 <div align="center">  
   <a href="https://youtu.be/l2T3VqzhqPs?si=arFiCq2okMiWosEv">  
