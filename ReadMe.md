@@ -50,8 +50,3 @@ Watch the project in action (Kindly click on the thumbnail below to open the pre
 </div>  
 
 ---
-
-🔗 **Project Repository**: *[Insert GitHub Link]*  
-📧 **Contact**: *[Your Email or Socials]*  
-
-🚀 *Made with passion for efficiency!*  
