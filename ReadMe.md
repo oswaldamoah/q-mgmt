@@ -1,4 +1,4 @@
-# 🏭 Physical Queue Management System
+# Physical Queue Management System
 
 ## 📌 Project Overview  
 This project focuses on developing a **Physical Queue Management System** using an **ultrasonic sensor** and **Arduino**, alongside a **React-based web app**. The system monitors queue length, predicts wait times, and provides real-time data to optimize queue efficiency and improve the customer experience.
