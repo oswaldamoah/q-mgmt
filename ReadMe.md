@@ -28,6 +28,9 @@ This project focuses on developing a **Physical Queue Management System** using 
 4. **Display results**: Data is sent to a ReactJS web app for real-time visualization.  
 5. **Optimize accuracy**: Implemented statistical filtering (mode) to enhance reliability.  
 
+## 🖼️ User Interface
+![UI](screenshots/q-mgmt_s1.png)
+
 ## 📈 Results & Challenges  
 ### ✅ Achievements:  
 - Successfully measured queue length in real time.  
